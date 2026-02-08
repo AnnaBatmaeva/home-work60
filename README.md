@@ -6,7 +6,7 @@ Todo Server
 
 Клонувати репозиторій:
 
-git clone <URL_репозиторію>
+git clone https://github.com/AnnaBatmaeva/home-work60.git
 
 Встановити залежності:
 
